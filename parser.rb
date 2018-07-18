@@ -6,4 +6,4 @@ def all_links_for(query)
     end
 end
 
-puts all_links_for('Kevin Bacon')
+puts all_links_for('Kevin_Bacon')
